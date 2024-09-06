@@ -1,11 +1,4 @@
-██╗░░░██╗███╗░░██╗██████╗░  ░█████╗░░█████╗░██████╗░██████╗
-██║░░░██║████╗░██║██╔══██╗  ██╔══██╗██╔══██╗██╔══██╗██╔════╝
-██║░░░██║██╔██╗██║██████╦╝  ██║░░╚═╝███████║██████╔╝█████╗░░
-██║░░░██║██║╚████║██╔══██╗  ██║░░██╗██╔══██║██╔══██╗██╔══╝░░
-╚██████╔╝██║░╚███║██████╦╝  ╚█████╔╝██║░░██║██║░░██║███████╗
-░╚═════╝░╚═╝░░╚══╝╚═════╝░  ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝
-
-# Gerenciamento de Cuidados Médicos
+# UnBCare - Gerenciamento de Cuidados Médicos
 
 Este projeto foi desenvolvido em Haskell e tem como objetivo fornecer suporte ao gerenciamento de cuidados para pacientes, permitindo que cuidadores administrem medicamentos e façam compras de suprimentos quando necessário. A estrutura é baseada em um receituário médico, que estabelece os horários e medicamentos a serem administrados ao longo do dia.
 
